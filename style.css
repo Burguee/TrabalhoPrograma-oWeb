@@ -1,0 +1,88 @@
+.container {
+
+    padding-right:15px;
+    padding-left:15px;
+    margin-right:auto;
+    margin-left:auto;
+
+}
+
+.well {
+    
+    min-height:20px;
+    padding:19px;
+    margin-bottom:20px;
+    background-color:#f5f5f5;
+    border:1px solid #e3e3e3;
+    border-radius:4px;
+    text-align: center;
+
+}
+
+.panel {
+    
+    margin-bottom:20px;
+    background-color:#fff;
+    border:1px solid transparent;
+    border-radius:4px;
+
+}
+
+.panel-heading {
+    
+    padding:10px 15px;
+    border-bottom:1px solid transparent;
+    border-top-left-radius:3px;
+    border-top-right-radius:3px;
+    background-color: lightgreen;
+
+}
+
+.panel-body {
+    
+    padding:15px;
+
+}
+
+.col-md-4 {
+
+    position:relative;    
+    min-height:1px;
+    padding-right:15px;
+    padding-left:15px;
+
+}
+
+.form-control {
+    
+    width:20%;
+    height:18px;
+    padding:6px 12px;
+    font-size:14px;
+}
+
+.center {
+
+    margin: auto;
+    text-align: center;
+
+}
+
+.pad {
+
+    padding-top: 10px;
+    padding-right: 125px;
+
+}
+
+.btn {
+
+    padding:6px 12px;
+    font-size:14px;
+    text-align:center;
+    border:1px solid transparent;
+    border-radius:4px;
+    background-color: #5CB85C;
+    color: white;
+
+}
